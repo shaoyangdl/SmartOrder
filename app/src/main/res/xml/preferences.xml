@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:title="@string/password_title"
+        android:key="@string/password_key"
+        android:summaryOn="@string/password_summary_on"
+        android:summaryOff="@string/password_summary_off"
+        android:textOn="@string/password_switch_on"
+        android:textOff="@string/password_switch_off"
+        android:defaultValue="false"/>
+    <SwitchPreference
+        android:title="@string/remember_title"
+        android:key="@string/remember_key"
+        android:summaryOn="@string/remember_summary_on"
+        android:summaryOff="@string/password_summary_off"
+        android:textOn="@string/remember_switch_on"
+        android:textOff="@string/remember_switch_off"
+        android:defaultValue="false"/>
+    <EditTextPreference android:title="@string/ip_title"
+        android:key="@string/ip_key"
+        android:summary="@string/ip_summary"/>
+    <EditTextPreference android:title="@string/port_title"
+        android:key="@string/port_key"
+        android:summary="@string/port_summary"/>
+
+
+</PreferenceScreen>

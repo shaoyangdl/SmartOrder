@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="password_title">Password Visible</string>
+    <string name="password_key">isShowPass</string>
+    <string name="password_switch_on">Show Password</string>
+    <string name="password_summary_on">switch to show password</string>
+    <string name="password_switch_off">Hide Password</string>
+    <string name="password_summary_off">switch to hide password</string>
+    <string name="remember_title">Remember User Name</string>
+    <string name="remember_key">isRememberUserName</string>
+    <string name="remember_switch_on">Remember User Name</string>
+    <string name="remember_summary_on">remember the user name</string>
+    <string name="remember_switch_off">Don\'t Remember User Name</string>
+    <string name="remember_summary_off">don\'t remember the user name</string>
+    <string name="ip_title">IP Address</string>
+    <string name="ip_key">ipAddr</string>
+    <string name="ip_summary">enter the server\'s ip address</string>
+    <string name="port_title">Port</string>
+    <string name="port_key">port</string>
+    <string name="port_summary">enter the server\'s port</string>
+
+</resources>
